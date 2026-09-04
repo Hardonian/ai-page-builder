@@ -1,5 +1,9 @@
 # AI Page Builder
 
+<!-- BEGIN: REPO HERO -->
+![ai-page-builder — hero generated locally on the GPU stack](assets/repo-hero.png)
+<!-- END: REPO HERO -->
+
 **AI-powered link-in-bio store builder with auto-layout from products.**
 
 ## What it does
